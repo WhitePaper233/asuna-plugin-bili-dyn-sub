@@ -1,0 +1,22 @@
+{
+  "name": "@asuna/koishi-plugin-bili-dyn-sub",
+  "description": "群聊中订阅b站动态",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.9"
+  }
+}
