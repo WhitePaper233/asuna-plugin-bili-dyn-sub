@@ -1,5 +1,5 @@
 {
-  "name": "@asuna/koishi-plugin-bili-dyn-sub",
+  "name": "@asuna-bot/koishi-plugin-bili-dyn-sub",
   "description": "群聊中订阅b站动态",
   "version": "0.0.1",
   "main": "lib/index.js",
